@@ -1,0 +1,104 @@
+input {
+  color: white;
+  border-radius: 4px;
+}
+
+form {
+  padding-left: 8%;
+}
+
+.top_stripe {
+  padding-left: 8%;
+  color: white;
+}
+.previously_searched {
+  color: rgb(250, 122, 79);
+}
+
+.searched_city {
+  color: white;
+}
+
+.search_button {
+  background-color: rgb(255, 159, 130);
+  color: white;
+  border-radius: 4px;
+  border-color: rgb(255, 159, 130);
+  padding: 8px 10px;
+}
+
+.current_button {
+  background-color: rgb(255, 159, 130);
+  color: white;
+  border-radius: 4px;
+  border-color: rgb(255, 159, 130);
+  padding: 8px 10px;
+}
+
+.city_country {
+  font-size: 28px;
+}
+
+.temperature {
+  font-size: 28px;
+}
+
+.emoji {
+  font-size: 28px;
+}
+
+.type_box {
+  border-color: white;
+  padding: 8px 10px;
+  color: black;
+}
+
+.background_box {
+  background-color: rgb(253, 216, 206);
+  border-radius: 30px;
+  max-width: 750px;
+  margin: 0 auto;
+  position: relative;
+  padding: 30px;
+}
+
+.map_image {
+  display: block;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.celsius {
+  background-color: rgb(255, 199, 182);
+  border-color: rgb(255, 204, 189);
+  color: white;
+  border-radius: 4px;
+  padding: 8px 10px;
+}
+
+.farenheit {
+  background-color: rgb(255, 199, 182);
+  border-color: rgb(255, 204, 189);
+  color: white;
+  border-radius: 4px;
+  padding: 8px 12px;
+}
+.city_weather {
+  padding-left: 8%;
+  color: white;
+}
+
+.week_weather {
+  color: rgb(250, 122, 79);
+}
+
+.this_week {
+  padding-left: 9%;
+  font-weight: bolder;
+}
+
+.coded_by {
+  font-family: monospace;
+  font-size: 14px;
+  text-align: center;
+}
